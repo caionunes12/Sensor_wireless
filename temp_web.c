@@ -25,8 +25,8 @@
 //============================================================
 // Definições de hardware e parâmetros
 //============================================================
-#define WIFI_SSID "KASATECH_NUNES 2.4" // Nome da rede Wi-Fi
-#define WIFI_PASSWORD "RECCID100"   // Senha da rede Wi-Fi
+#define WIFI_SSID "SUA_REDE" // Nome da rede Wi-Fi
+#define WIFI_PASSWORD "SUA_SENHA"   // Senha da rede Wi-Fi
 
 #define VRX_PIN 26  // Pino do ADC para leitura de temperatura
 #define LED_PIN 13 // Pino do LED PWM
