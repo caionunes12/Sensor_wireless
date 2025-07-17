@@ -28,8 +28,8 @@
 #define WIFI_SSID "SUA_REDE" // Nome da rede Wi-Fi
 #define WIFI_PASSWORD "SUA_SENHA"   // Senha da rede Wi-Fi
 
-#define VRX_PIN 26  // Pino do ADC para leitura de temperatura
-#define LED_PIN 13 // Pino do LED PWM
+#define VRX_PIN 28  // Pino do ADC para leitura de temperatura
+#define LED_PIN 16 // Pino do LED PWM
 #define WIFI_LED_PIN CYW43_WL_GPIO_LED_PIN // Pino do LED indicador de Wi-Fi
 
 #define BETA     3435.0     // Constante beta do NTC
