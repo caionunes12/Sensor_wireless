@@ -1,6 +1,6 @@
 //============================================================
 // Projeto: Monitor de Temperatura com Wi-Fi
-// Descrição: Monitora a temperatura ambiente e controla um LED PWM
+// Descrição: Monitora a temperatura ambiente e controla um Cooler Fan via PWM
 // Autores: Caio, Felipe, Osvaldo e Domingos
 // Instituição: UNIVASF - Universidade Federal do Vale do São Francisco
 // Data: 16/07/2025
