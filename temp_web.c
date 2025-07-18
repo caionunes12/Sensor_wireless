@@ -40,7 +40,7 @@
 
 #define PWM_WRAP 4095       // Valor máximo do contador PWM (12 bits)
 
-//============================================================
+//. ============================================================
 // Variáveis globais
 
 static float current_temperature = 0.0;     // Temperatura atual em °C
