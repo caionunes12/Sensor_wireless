@@ -22,9 +22,9 @@
 #include "lwip/netif.h"     // estruturas de interface de rede
 
 
-//============================================================
+//. ============================================================
 // Definições de hardware e parâmetros
-//============================================================
+//. ============================================================
 #define WIFI_SSID "SUA_REDE" // Nome da rede Wi-Fi
 #define WIFI_PASSWORD "SUA_SENHA"   // Senha da rede Wi-Fi
 
@@ -40,7 +40,7 @@
 
 #define PWM_WRAP 4095       // Valor máximo do contador PWM (12 bits)
 
-//============================================================
+//. ============================================================
 // Variáveis globais
 
 static float current_temperature = 0.0;     // Temperatura atual em °C
