@@ -22,9 +22,9 @@
 #include "lwip/netif.h"     // estruturas de interface de rede
 
 
-//============================================================
+//. ============================================================
 // Definições de hardware e parâmetros
-//============================================================
+//. ============================================================
 #define WIFI_SSID "SUA_REDE" // Nome da rede Wi-Fi
 #define WIFI_PASSWORD "SUA_SENHA"   // Senha da rede Wi-Fi
 
