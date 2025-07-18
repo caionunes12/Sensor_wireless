@@ -18,7 +18,7 @@
 #include "hardware/pwm.h"       // controle de PWM
 #include "pico/cyw43_arch.h"    // Wi-Fi e GPIO
 #include "lwip/pbuf.h"      // estruturas de buffer
-#include "lwip/tcp.h"       // estruturas de controle de protocolo
+#include "lwip/tcp.h"       // estruturas de controle de  protocolo
 #include "lwip/netif.h"     // estruturas de interface de rede
 
 
